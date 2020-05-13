@@ -1,4 +1,4 @@
-##### R program for star to delta and delta to star conversion
+### R program for star to delta and delta to star conversion of an electric connection.
 
 ## R program for star to delta conversion
 stod=function(ra,rb,rc) {
